@@ -6,6 +6,6 @@ FILE DESCRIPTIONS
 
 - Chris_Paul.xlsx - Excel spreadsheet containing the game log info for Chris Paul
 - Damian_Lillard.xlsx - Excel spreadsheet containing the game log info for Damian Lillard 
-- Data Analytics.ipynb - Jupyter notebook containing a description of the project, analysis, and takeaways from the comparison between the NBA point guards
+- Data_Analytics.ipynb - Jupyter notebook containing a description of the project, analysis, and takeaways from the comparison between the NBA point guards
 - Stephen_Curry.xlsx - Excel spreadsheet containing the game log info for Stephen Curry 
 - stats_description.txt - text file explaining what each of the basketball statistics defined 
