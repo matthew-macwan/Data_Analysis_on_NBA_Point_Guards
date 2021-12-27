@@ -1,6 +1,6 @@
 # Data Analysis on NBA Point Guards
 
-In this project, I analyze the numbers between 3 of my favorite point guards in the NBA. I attempt to answer some questions I had about their performance in important games and who is the best player to have on your team for winning games. For an in-depth explanation of the project, please see the Jupyter notebook. 
+In this project, I analyze the numbers between 3 of my favorite point guards in the NBA, Chris Paul, Damian Lillard and Steph Curry. I attempt to answer some questions I had about their performance in important games and who is the best player to have on your team for winning games. For an in-depth explanation of the project, please see the Jupyter notebook. 
 
 ### File Descriptions
 
