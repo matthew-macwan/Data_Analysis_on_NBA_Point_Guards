@@ -10,6 +10,6 @@ In this project, I analyze the numbers between 3 of my favorite point guards in 
 - Stephen_Curry.xlsx - Excel spreadsheet containing the game log info for Stephen Curry 
 - stats_description.txt - text file explaining what each of the basketball statistics defined 
 
-### Data Science Topics Covered
+### Topics Covered
 
 - data cleaning, data visualization, data analysis
